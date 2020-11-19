@@ -1,0 +1,13 @@
+C:\SENAI\repositorio\Projeto2\obj\Debug\netcoreapp3.1\Projeto2.csprojAssemblyReference.cache
+C:\SENAI\repositorio\Projeto2\obj\Debug\netcoreapp3.1\Projeto2.AssemblyInfoInputs.cache
+C:\SENAI\repositorio\Projeto2\obj\Debug\netcoreapp3.1\Projeto2.AssemblyInfo.cs
+C:\SENAI\repositorio\Projeto2\obj\Debug\netcoreapp3.1\Projeto2.csproj.CoreCompileInputs.cache
+C:\SENAI\repositorio\Projeto2\bin\Debug\netcoreapp3.1\Projeto2.exe
+C:\SENAI\repositorio\Projeto2\bin\Debug\netcoreapp3.1\Projeto2.deps.json
+C:\SENAI\repositorio\Projeto2\bin\Debug\netcoreapp3.1\Projeto2.runtimeconfig.json
+C:\SENAI\repositorio\Projeto2\bin\Debug\netcoreapp3.1\Projeto2.runtimeconfig.dev.json
+C:\SENAI\repositorio\Projeto2\bin\Debug\netcoreapp3.1\Projeto2.dll
+C:\SENAI\repositorio\Projeto2\bin\Debug\netcoreapp3.1\Projeto2.pdb
+C:\SENAI\repositorio\Projeto2\obj\Debug\netcoreapp3.1\Projeto2.dll
+C:\SENAI\repositorio\Projeto2\obj\Debug\netcoreapp3.1\Projeto2.pdb
+C:\SENAI\repositorio\Projeto2\obj\Debug\netcoreapp3.1\Projeto2.genruntimeconfig.cache
